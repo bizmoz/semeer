@@ -1,0 +1,25 @@
+# Base configs
+baseurl: "https://www.semeer.in"
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+
+
+# UI configs
+title: "Photography by Semeer"
+subtitle: "My Collection"
+author: "Semeer"
+header:
+ title: "Photography"
+ subtitle: "by Semeer"
+footer:
+ name: "#"
+ bio: "#"
+ github: "# <a href=\"#">fork me on github</a> ;)"
+web_design: "#"
+social_urls:
+  facebook: "#"
+  twitter: "#"
+  instagram: "#"
+  dribbble: "#"
+  linkedin: "#"
+  github: "#"
