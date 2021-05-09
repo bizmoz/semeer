@@ -12,16 +12,16 @@ header:
  title: "Photography"
  subtitle: "by Semeer"
 footer:
- name: "#"
+ name: "Semeer P A"
  bio: "#"
  github: "#"
 web_design: "#"
 social_urls:
-  facebook: "#"
-  twitter: "#"
-  instagram: "#"
-  dribbble: "#"
-  linkedin: "#"
-  github: "#"
+  facebook: "https://www.facebook.com/semeer.in"
+  twitter: "https://twitter.com/semeer_in"
+  instagram: "https://www.instagram.com/semeer.in"
+  dribbble: "https://dribbble.com/bizmoz"
+  linkedin: "https://www.linkedin.com/semeer-in"
+  github: "https://github.com/bizmoz"
 
 theme: jekyll-theme-slate
